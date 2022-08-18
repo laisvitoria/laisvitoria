@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome in Github's Laís Vitória!
+## Hi there 👋 Welcome to Laís Vitória's Github!
 
 ### About me:
 - 🙋🏻‍ My name is Laís, I'm 22 years old.
