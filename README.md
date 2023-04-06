@@ -3,8 +3,8 @@
 ### About me:
 - 🙋🏻‍ My name is Laís, I'm 22 years old.
 - 📚 I study Computer Science at Federal University of Sergipe (UFS)
-- 💻 I work at [Popcode](https://github.com/PopcodeMobile) using React Native.
-- 📲 I love mobile development! And sometimes I share my process with the tecnology on Instagram
+- 💻 I work using React Native.
+- 📲 And I love mobile development! Sometimes I share my process with the tecnology on Instagram
 
 <a href ="https://www.linkedin.com/in/developerlais/" title="LinkedIn"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> <a href = "https://www.instagram.com/_laisvitoria__/" title="Instagram"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
