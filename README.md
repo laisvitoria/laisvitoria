@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to Laís Vitória's Github!
 
 ### About me:
-- 🙋🏻‍ My name is Laís, I'm 22 years old.
+- 🙋🏻‍ My name is Laís, I'm 24 years old.
 - 📚 I study Computer Science at Federal University of Sergipe (UFS)
 - 💻 I work using React Native, and I love mobile development!
 - 📲 Sometimes I share my process with the tecnology on Instagram
